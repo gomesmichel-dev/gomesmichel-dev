@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @gomesmichel-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é Michel mas costumo ser chamado de Gomes
+me interesso bastante pelo baixo nivel, c/c++, assembl, binarios
+gosto muito de matematica, e costumo estudar tentar consilhar meus estudos em ciências da computação e matematica
 
-<!---
-gomesmichel-dev/gomesmichel-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+minhas config:
+OS: Arch Linux x86_
+WM: i3
+CPU: Intel i5-5200U
+RAM: 8GB DDR3
